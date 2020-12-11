@@ -1,0 +1,5 @@
+com\mycart\service\testcases\MyCartServiceRegularTest.class
+com\mycart\service\testcaserunner\MyCartTestSuiteRunner.class
+com\mycart\service\testcases\MyCartServiceAffiliatedTest.class
+com\mycart\service\testcases\MyCartServiceOrdinaryTest.class
+com\mycart\service\testcases\MyCartServiceEmployeeTest.class
